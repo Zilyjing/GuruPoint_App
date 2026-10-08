@@ -1,0 +1,250 @@
+{
+  "users": [
+    {
+      "id": "usr_9999999999",
+      "mobile": "9999999999",
+      "name": "GuruPoint Admin",
+      "balance": 1000000,
+      "agentCode": "MASTER_ADMIN",
+      "role": "ADMIN",
+      "status": "ACTIVE",
+      "adminOverride": true
+    },
+    {
+      "id": "usr_9027750140",
+      "mobile": "9027750140",
+      "name": "vignes",
+      "balance": 500,
+      "agentCode": "AG1003",
+      "role": "MEMBER",
+      "status": "ACTIVE",
+      "adminOverride": true
+    }
+  ],
+  "agents": [
+    {
+      "id": "ag1",
+      "code": "AG1001",
+      "name": "Royal Agent",
+      "mobile": "8888888888",
+      "pass": "1234",
+      "balance": 50000,
+      "status": "ACTIVE"
+    },
+    {
+      "id": "ag2",
+      "code": "AG1002",
+      "name": "Golden Star Agent",
+      "mobile": "7777777777",
+      "pass": "1234",
+      "balance": 25000,
+      "status": "ACTIVE"
+    },
+    {
+      "id": "ag3",
+      "code": "AG1003",
+      "name": "vinod",
+      "mobile": "9027750140",
+      "pass": "1234",
+      "balance": 10000,
+      "status": "ACTIVE"
+    }
+  ],
+  "games": [
+    {
+      "id": "g1",
+      "name": "Delhi Bazar",
+      "description": "Delhi Bazar Live Draw",
+      "openTime": "10:00 AM",
+      "closeTime": "02:30 PM",
+      "resultTime": "03:00 PM",
+      "latestResult": "91",
+      "isOpen": true,
+      "sourceUrl": "https://satta-results.com/"
+    },
+    {
+      "id": "g2",
+      "name": "Shree Ganesh",
+      "description": "Shree Ganesh Daily Draw",
+      "openTime": "11:00 AM",
+      "closeTime": "04:15 PM",
+      "resultTime": "04:30 PM",
+      "latestResult": "47",
+      "isOpen": true,
+      "sourceUrl": "https://satta-results.com/"
+    },
+    {
+      "id": "g3",
+      "name": "Faridabad",
+      "description": "Faridabad Evening Draw",
+      "openTime": "12:00 PM",
+      "closeTime": "05:45 PM",
+      "resultTime": "06:15 PM",
+      "latestResult": "01",
+      "isOpen": true,
+      "sourceUrl": "https://satta-results.com/"
+    },
+    {
+      "id": "g4",
+      "name": "Ghaziabad",
+      "description": "Ghaziabad Night Draw",
+      "openTime": "01:00 PM",
+      "closeTime": "08:15 PM",
+      "resultTime": "08:30 PM",
+      "latestResult": "01",
+      "isOpen": true,
+      "sourceUrl": "https://satta-results.com/"
+    },
+    {
+      "id": "g5",
+      "name": "Gali",
+      "description": "Gali Midnight Draw",
+      "openTime": "02:00 PM",
+      "closeTime": "11:00 PM",
+      "resultTime": "11:30 PM",
+      "latestResult": "01",
+      "isOpen": true,
+      "sourceUrl": "https://satta-results.com/"
+    },
+    {
+      "id": "g6",
+      "name": "Disawar",
+      "description": "Disawar Early Morning Draw",
+      "openTime": "03:00 PM",
+      "closeTime": "03:00 AM",
+      "resultTime": "05:00 AM",
+      "latestResult": "15",
+      "isOpen": false,
+      "sourceUrl": "https://satta-results.com/"
+    }
+  ],
+  "results": [
+    {
+      "id": "res_1791142206381_g3",
+      "gameId": "g3",
+      "gameName": "Faridabad",
+      "resultDate": "2026-10-04",
+      "resultTime": "06:15 PM",
+      "declaredNumber": "36",
+      "isDeclared": true,
+      "sourceName": "https://satta-results.com/ (Live Scraped)"
+    },
+    {
+      "id": "res_1791142178271_g5",
+      "gameId": "g5",
+      "gameName": "Gali",
+      "resultDate": "2026-10-04",
+      "resultTime": "11:30 PM",
+      "declaredNumber": "01",
+      "isDeclared": true,
+      "sourceName": "https://satta-results.com/ (Live Scraped)"
+    },
+    {
+      "id": "res_1791142178271_g5",
+      "gameId": "g5",
+      "gameName": "Gali",
+      "resultDate": "2026-10-04",
+      "resultTime": "11:30 PM",
+      "declaredNumber": "80",
+      "isDeclared": true,
+      "sourceName": "https://satta-results.com/ (Live Scraped)"
+    },
+    {
+      "id": "res_1791142178270_g4",
+      "gameId": "g4",
+      "gameName": "Ghaziabad",
+      "resultDate": "2026-10-04",
+      "resultTime": "08:30 PM",
+      "declaredNumber": "01",
+      "isDeclared": true,
+      "sourceName": "https://satta-results.com/ (Live Scraped)"
+    },
+    {
+      "id": "res_1791142178270_g4",
+      "gameId": "g4",
+      "gameName": "Ghaziabad",
+      "resultDate": "2026-10-04",
+      "resultTime": "08:30 PM",
+      "declaredNumber": "98",
+      "isDeclared": true,
+      "sourceName": "https://satta-results.com/ (Live Scraped)"
+    },
+    {
+      "id": "res_1791142178269_g3",
+      "gameId": "g3",
+      "gameName": "Faridabad",
+      "resultDate": "2026-10-04",
+      "resultTime": "06:15 PM",
+      "declaredNumber": "01",
+      "isDeclared": true,
+      "sourceName": "https://satta-results.com/ (Live Scraped)"
+    },
+    {
+      "id": "res_1",
+      "gameId": "g1",
+      "gameName": "Delhi Bazar",
+      "resultDate": "2025-02-18",
+      "resultTime": "03:00 PM",
+      "declaredNumber": "91",
+      "isDeclared": true,
+      "sourceName": "https://satta-results.com/"
+    },
+    {
+      "id": "res_2",
+      "gameId": "g2",
+      "gameName": "Shree Ganesh",
+      "resultDate": "2025-02-18",
+      "resultTime": "04:30 PM",
+      "declaredNumber": "47",
+      "isDeclared": true,
+      "sourceName": "https://satta-results.com/"
+    },
+    {
+      "id": "res_3",
+      "gameId": "g3",
+      "gameName": "Faridabad",
+      "resultDate": "2025-02-18",
+      "resultTime": "06:15 PM",
+      "declaredNumber": "36",
+      "isDeclared": true,
+      "sourceName": "https://satta-results.com/"
+    },
+    {
+      "id": "res_4",
+      "gameId": "g4",
+      "gameName": "Ghaziabad",
+      "resultDate": "2025-02-18",
+      "resultTime": "08:30 PM",
+      "declaredNumber": "95",
+      "isDeclared": true,
+      "sourceName": "https://satta-results.com/"
+    },
+    {
+      "id": "res_5",
+      "gameId": "g5",
+      "gameName": "Gali",
+      "resultDate": "2025-02-18",
+      "resultTime": "11:30 PM",
+      "declaredNumber": "68",
+      "isDeclared": true,
+      "sourceName": "https://satta-results.com/"
+    },
+    {
+      "id": "res_6",
+      "gameId": "g6",
+      "gameName": "Disawar",
+      "resultDate": "2025-02-18",
+      "resultTime": "05:00 AM",
+      "declaredNumber": "15",
+      "isDeclared": true,
+      "sourceName": "https://satta-results.com/"
+    }
+  ],
+  "logs": [
+    {
+      "action": "SERVER_START",
+      "details": "Satta-Results.com Exact Live Results Synchronized",
+      "time": "Just Now"
+    }
+  ]
+}
